@@ -3,12 +3,9 @@
 #define USE_V200
 #define MIN_AMS 200
 
-#include <args.h>
-#include <flash.h>
 #include <graph.h>
 #include <kbd.h>
 
-#include <string.h>
 #include <stdint.h>
 #include <stdbool.h>
 

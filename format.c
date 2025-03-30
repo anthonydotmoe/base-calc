@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "format.h"
 
 static const char* nibble_str[] = {
